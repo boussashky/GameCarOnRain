@@ -1,6 +1,6 @@
 {
-	"name": "драйверульянка",
-	"short_name": "драйверульянка",
+	"name": "CarGameOnRa",
+	"short_name": "CarGameOnRa",
 	"description": "игрушка ВХВХ",
 	"start_url": "index.html",
 	"display": "fullscreen",
